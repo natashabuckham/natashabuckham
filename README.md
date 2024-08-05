@@ -5,4 +5,8 @@
 - 📫 Reach me at nimbuckham@gmail.com
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,sass,ruby,express,vite,nodejs,npm,mongodb,postgres,postman,rspec,jest,cypress,mocha,bash,py,git,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,sass,ruby,express,vite,nodejs,npm,mongodb,postgres,postman,jest,cypress,bash,py,git,github&perline=11" />
+  </a>
+</p>
