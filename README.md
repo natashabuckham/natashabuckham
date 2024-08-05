@@ -13,8 +13,8 @@
 
 ## Github Stats
 <a href="https://github.com/natashabuckham/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=natashabuckham&theme=solarized_light&show_icons=true&rank_icon=github&include_all_commits=true" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=natashabuckham&theme=vue&show_icons=true&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/natashabuckham/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natashabuckham&layout=compact&card_width=320&theme=solarized_light" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natashabuckham&layout=compact&card_width=320&theme=vue" />
 </a>
