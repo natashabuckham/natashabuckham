@@ -1,4 +1,4 @@
-## Hi, I'm Natasha (she/her) 👋
+# Hi, I'm Natasha 👋
 
 - 🔭 I’m currently a Trainee Software Engineer with TechSwitch
 - 🌱 I’m currently learning C#
