@@ -10,3 +10,11 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,sass,ruby,express,vite,nodejs,npm,mongodb,postgres,postman,jest,cypress,bash,py,git,github&perline=11" />
   </a>
 </p>
+
+## Github Stats
+<a href="https://github.com/natashabuckham/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natashabuckham&theme=solarized_light&show_icons=true&rank_icon=github&include_all_commits=true" />
+</a>
+<a href="https://github.com/natashabuckham/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natashabuckham&layout=compact&card_width=320&theme=solarized_light" />
+</a>
