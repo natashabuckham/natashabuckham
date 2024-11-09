@@ -1,7 +1,7 @@
 # Hi, I'm Natasha 👋
 
-- 🔭 I’m currently a Trainee Software Engineer with TechSwitch
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently a Software Developer at Softwire
+- 🌱 I’m currently learning NextJS
 - 📫 Reach me at nimbuckham@gmail.com
 
 ## Languages and Tools
