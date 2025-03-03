@@ -1,13 +1,12 @@
 # Hi, I'm Natasha 👋
 
 - 🔭 I’m currently a Software Developer at Softwire
-- 🌱 I’m currently learning NextJS
 - 📫 Reach me at nimbuckham@gmail.com
 
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,sass,ruby,express,vite,nodejs,npm,mongodb,postgres,postman,jest,cypress,bash,py,git,github&perline=11" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,react,ts,js,html,css,sass,docker,ruby,express,vite,nodejs,npm,mongodb,postgres,postman,jest,cypress,bash,py,git,github&perline=12" />
   </a>
 </p>
 
