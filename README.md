@@ -1,6 +1,6 @@
 # Hi, I'm Natasha 👋
 
-- 🔭 I’m currently a Software Developer at Softwire
+- 🔭 I’m a Software Developer at Softwire
 - 📫 Reach me at nimbuckham@gmail.com
 
 ## Languages and Tools
